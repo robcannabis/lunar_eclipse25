@@ -34,7 +34,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1222986989926613043/1225741957985337434/nasna.gif?ex=66223c27&is=660fc727&hm=6a1dc247214b98bd70f8295be4d9baea2c94b67b87e5739888429a9c55620817&']; //รูปใหญ่
+    const change = ['https://cdn.discordapp.com/attachments/1160098922191138867/1227142388930314281/fawxva.gif?ex=66275468&is=6614df68&hm=12ecdc9a27171beff44e99080d96c85704de13eb266cc2a3d10a965e089516d4&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = ['=＾Sekai Player＾=','=＾Genshin Player＾=','=＾Ma Mie so cute＾=','=＾Dome’s Mine＾=']; // ชื่อสลับ
     const yyyt = ['IG']; // ชื่อ button1
